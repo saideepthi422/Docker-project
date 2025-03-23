@@ -1,0 +1,4 @@
+docker ps               # Check running containers
+docker stop <container_id>  # Stop the container
+docker rm <container_id>    # Remove the container
+docker rmi my-nginx      # Remove the image
